@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**yanabortina/yanabortina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Yana! 👋
 
-Here are some ideas to get you started:
+I'm learning **Business Analysis** and building on my experience in People Operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously, I worked as an Advisor Success Manager, working with over 40 advisors from different countries. My work focused on KPIs, performance analysis and finding ways to improve results. I also developed personalized, gamified projects to help advisors improve their performance, along with training materials and process improvements.
+
+## 📚 Currently Learning
+
+I'm studying Business Analysis, with a focus on:
+
+- Requirements Analysis and Documentation
+- Business Processes
+- SDLC: Waterfall and Agile
+- Scrum
+- BRD, FURPS+, and User Stories
+
+## 🛠️ Tools
+
+- Tableau
+- Excel
+- Notion
+- Trello
+- Git & GitHub (learning)
+
+## 🤝 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/yana-bortina-b6676242b/)
